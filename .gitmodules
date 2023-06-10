@@ -1,6 +1,3 @@
-[submodule "NeuralOptimalTransport"]
-	path = NeuralOptimalTransport
-	url = git@github.com:iamalexkorotin/NeuralOptimalTransport.git
 [submodule "EntropicOTBenchmark"]
 	path = EntropicOTBenchmark
 	url = git@github.com:ngushchin/EntropicOTBenchmark.git
