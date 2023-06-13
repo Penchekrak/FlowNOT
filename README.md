@@ -1,5 +1,5 @@
 # FlowNOT
-Conditional Normalizing Flow implementation of NOT
+Conditional Normalizing Flow implementation of NOT for [EntropicOTBenchmark](https://github.com/ngushchin/EntropicOTBenchmark) evaluation
 
 usage:
 * `git clone --recurse-submodules https://github.com/Penchekrak/FlowNOT.git`
